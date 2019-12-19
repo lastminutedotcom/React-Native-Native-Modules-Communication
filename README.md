@@ -10,7 +10,7 @@ This is a project for the blog posts [React Native: a simple architecture for Na
 
 ### Description
 
-This are some quotes from the post:
+This is a quote from the post:
 
 > ...Sometimes when you integrated React Native in an existing app, you will want to be able to let your Native
 Modules bridges communicate with your UIViewController, especially the ones that contain the `RCTRootView` React
@@ -19,4 +19,4 @@ In this post I will show you an architecture to put in place this communication 
 all the features of React Native (for example it will work also with the live reload functionality). This is an
 architecture that we put in place for our mobile apps and it already in production.... 
 
-Click on the links above to read the posts.
+Click on the link above to read the post.
